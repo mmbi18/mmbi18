@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'M mohammad bagheri
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hello%2C+I+am+an+Iranian+programmer)](https://git.io/typing-svg)
 <!--
 **mmbi18/mmbi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
